@@ -14,4 +14,4 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-int number_to_string(int number_to_transform);
+int number_to_string(long long int number_to_transform);
