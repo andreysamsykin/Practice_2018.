@@ -62,7 +62,7 @@ int number_to_string(long long int numb_to_transform) {
 		}
 	}
 
-	for (i; i >= 0; i--) {
+	for (i = i - 1; i >= 0; i--) {
 		//вывод, если значение ненулевое		
 		if (resu1[i][0] == NULL) {}
 		else {
